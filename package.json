@@ -1,0 +1,25 @@
+{
+  "name": "Daniel simple bot",
+  "version": "0.0.1",
+  "description": "Telegram simple bot - first trial-trip",
+  "main": "main.js",
+  "dependencies": {
+    "nodemon": "~1.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GonikDaniel/Telegram-simple-bot.git"
+  },
+  "author": "Gonik Daniel",
+  "url": "http://igonik.ru",
+  "email": "gonik.daniel88@gmail.com",
+  "license": "free",
+  "bugs": {
+    "url": "https://github.com/GonikDaniel/Telegram-simple-bot/issues"
+  },
+  "homepage": "https://github.com/GonikDaniel/Telegram-simple-bot"
+}
