@@ -18,6 +18,7 @@ You can test it right now by clicking this [link](https://telegram.me/danieltest
 2. Or type in search field @danieltestbot and click start
 
 If you are a developer:
+
 1. First clone the repository - git clone https://github.com/GonikDaniel/Telegram-simple-bot.git
 2. install node.js + npm (http://nodejs.org/ -> install)
 3. Register your own bot with @BotFather and get YOUR_TOKEN
